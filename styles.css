@@ -15,15 +15,15 @@ h1,.center{
 	background-color:blue;
 }
 table{
-	border:1px solid black;
+	border:1px solid rgb(0, 0, 0);
 	width:100%;
 	padding: 1px;
-    margin: 10px auto;
+    margin: 1px auto;
 }
 th,tr,td{
-	border:1px solid black;
-	padding: 10px;
-    margin: 10px auto;
+	border:1px solid rgb(0, 0, 0);
+	padding: 1px;
+    margin: 1px auto;
 }
 .right{
 	text-align:right;
